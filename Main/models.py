@@ -1,4 +1,3 @@
-from distutils.command.upload import upload
 from django.db import models
 from froala_editor.fields import FroalaField
 from .helpers import *
